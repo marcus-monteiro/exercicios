@@ -11,6 +11,7 @@ export default function usandoTitulo() {
             <Titulo
                 principal="Página de login"
                 secundario="Informe seu login e senha!"
+                pequeno={true}
             />
         </div>
     )
